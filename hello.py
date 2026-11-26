@@ -1,1 +1,3 @@
 print("Hello, Git!")
+name = input("Введите ваше имя: ")
+print(f"Привет, {name}! Рад познакомиться.")
